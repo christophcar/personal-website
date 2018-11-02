@@ -1,2 +1,2 @@
 # personal-website
-Read more about me on http://christophcarstens.de
+Find out more about me on http://christophcarstens.de
