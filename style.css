@@ -99,24 +99,24 @@ body {
   font-size: 40px;
 }
 
-.fa-medium:hover {
-  color: rgb(92 195 113);
+.fa-medium-m:hover {
+  color: rgb(92, 195, 113);
 }
 
 .fa-xing:hover {
-  color: rgb(213 213 69);
+  color: rgb(213, 213, 69);
 }
 
 .fa-github:hover {
-  color: rgb(223 91 64);
+  color: rgb(223, 91, 64);
 }
 
-.fa-codepen:hover {
-  color: rgb(50 60 65);
+.fa-linkedin:hover {
+  color: rgb(63, 87, 100);
 }
 
 .fa-envelope:hover {
-  color: #0095a8;
+  color: rgb(0, 149, 168);
 }
 
 /* media queries */
